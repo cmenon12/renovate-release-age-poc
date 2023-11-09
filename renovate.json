@@ -5,10 +5,15 @@
     "replacements:all",
     "workarounds:all"
   ],
-  "ignorePresets": [
-    "mergeConfidence:all-badges"
-  ],
   "gitAuthor": "Chris Renovate Bot <chrisrenovatebot@example.com>",
+  "prBodyColumns": [
+        "Package",
+        "Update",
+        "Change",
+        "Pending",
+        "Age",
+        "Confidence"
+      ]
   "prCreation": "immediate",
   "dependencyDashboard": true,
   "minimumReleaseAge": "14 days",
