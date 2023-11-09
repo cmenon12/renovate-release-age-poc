@@ -17,6 +17,7 @@
     ],
     "prCreation": "immediate",
     "minimumReleaseAge": "14 days",
+    "dependencyDashboard": true,
     "separateMinorPatch": true,
     "patch": {
         "groupName": "all patch updates",
