@@ -13,7 +13,7 @@
         "Pending",
         "Age",
         "Confidence"
-      ]
+  ],
   "prCreation": "immediate",
   "dependencyDashboard": true,
   "minimumReleaseAge": "14 days",
