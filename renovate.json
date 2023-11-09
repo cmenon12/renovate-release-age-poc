@@ -16,19 +16,10 @@
         "Confidence"
     ],
     "prCreation": "immediate",
-    "dependencyDashboard": true,
     "minimumReleaseAge": "14 days",
     "separateMinorPatch": true,
     "patch": {
         "groupName": "all patch updates",
         "description": "Group all patch updates together"
-    },
-    "minor": {
-        "dependencyDashboardApproval": true,
-        "description": "Require dashboard approval to create minor PRs"
-    },
-    "major": {
-        "dependencyDashboardApproval": true,
-        "description": "Require dashboard approval to create major PRs"
     }
 }
