@@ -5,7 +5,7 @@
     "replacements:all",
     "workarounds:all"
   ],
-  "gitAuthor": "Chris Renovate Bot <chrisrenovatebot@example.com",
+  "gitAuthor": "Chris Renovate Bot <chrisrenovatebot@example.com>",
   "prCreation": "immediate",
   "prNotPendingHours": 2,
   "dependencyDashboard": true,
