@@ -23,4 +23,12 @@
         "groupName": "all patch updates",
         "description": "Group all patch updates together"
     }
+    "minor": {
+        "dependencyDashboardApproval": true,
+        "description": "Require dashboard approval to create minor PRs"
+    },
+    "major": {
+        "dependencyDashboardApproval": true,
+        "description": "Require dashboard approval to create major PRs"
+    },
 }
