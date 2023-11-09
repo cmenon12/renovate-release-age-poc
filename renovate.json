@@ -5,12 +5,13 @@
     "replacements:all",
     "workarounds:all"
   ],
+  "ignorePresets": [
+    "mergeConfidence:all-badges"
+  ],
   "gitAuthor": "Chris Renovate Bot <chrisrenovatebot@example.com>",
   "prCreation": "immediate",
-  "prNotPendingHours": 2,
   "dependencyDashboard": true,
-  "minimumReleaseAge": "10 days",
-  "rebaseWhen": "behind-base-branch",
+  "minimumReleaseAge": "14 days",
   "separateMinorPatch": true,
   "patch": {
     "groupName": "all patch updates",
