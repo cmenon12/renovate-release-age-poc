@@ -6,7 +6,6 @@
         "workarounds:all"
     ],
     "ignorePresets": ["mergeConfidence:all-badges"],
-    "gitAuthor": "Chris Renovate Bot <chrisrenovatebot@example.com>",
     "prBodyColumns": [
         "Package",
         "Update",
