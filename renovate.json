@@ -15,7 +15,7 @@
         "Confidence"
     ],
     "prHourlyLimit": 10,
-    "minimumReleaseAge": "14 days",
+    "minimumReleaseAge": "21 days",
     "dependencyDashboard": true,
     "separateMinorPatch": true,
     "minor": {
