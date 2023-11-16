@@ -25,5 +25,5 @@
     "major": {
         "dependencyDashboardApproval": true,
         "description": "Require dashboard approval to create major PRs"
-    },
+    }
 }
