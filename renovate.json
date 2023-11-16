@@ -14,6 +14,7 @@
         "Age",
         "Confidence"
     ],
+    "internalChecksFilter": "strict",
     "prHourlyLimit": 10,
     "minimumReleaseAge": "21 days",
     "dependencyDashboard": true,
