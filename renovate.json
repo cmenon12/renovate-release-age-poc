@@ -1,10 +1,6 @@
 {
     "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-    "extends": [
-        ":ignoreModulesAndTests",
-        "replacements:all",
-        "workarounds:all"
-    ],
+    "extends": ["config:recommended"],
     "ignorePresets": ["mergeConfidence:all-badges"],
     "prBodyColumns": [
         "Package",
@@ -14,10 +10,7 @@
         "Age",
         "Confidence"
     ],
-    "internalChecksFilter": "strict",
-    "prHourlyLimit": 10,
     "minimumReleaseAge": "30 days",
-    "dependencyDashboard": true,
     "separateMinorPatch": true,
     "minor": {
         "dependencyDashboardApproval": true,
