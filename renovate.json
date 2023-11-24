@@ -16,7 +16,7 @@
     ],
     "internalChecksFilter": "strict",
     "prHourlyLimit": 10,
-    "minimumReleaseAge": "21 days",
+    "minimumReleaseAge": "30 days",
     "dependencyDashboard": true,
     "separateMinorPatch": true,
     "minor": {
