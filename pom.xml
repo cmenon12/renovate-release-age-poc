@@ -14,7 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <!-- Relevant versions for Renovate -->
-    <tngtech-archunit.version>1.1.0</tngtech-archunit.version>
+    <tngtech-archunit.version>1.2.0</tngtech-archunit.version>
   </properties>
 
   <dependencies>
