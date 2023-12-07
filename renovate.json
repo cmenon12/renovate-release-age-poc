@@ -10,7 +10,7 @@
         "Age",
         "Confidence"
     ],
-    "minimumReleaseAge": "30 days",
+    "minimumReleaseAge": "45 days",
     "separateMinorPatch": true,
     "minor": {
         "dependencyDashboardApproval": true,
